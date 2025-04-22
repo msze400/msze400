@@ -20,4 +20,14 @@ I'm a **Full Stack Consultant** at MIT Lincoln Labs and currently pursuing my **
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- 🧠 [LinkedIn](https://www.linkedin.com/mtsze) – Let's talk tech, innovation, or just say hi!
+- 💻 [Portfolio](https://mattsze.com) – Check out my latest work.
+- 📬 Email me at: `msze400@gmail.com`
+
 
