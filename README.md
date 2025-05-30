@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Matt Sze
 
-I'm a **Full Stack Consultant** at MIT Lincoln Labs and currently pursuing my **Master's at the University of Pennsylvania**. I love building full-stack applications, solving complex problems, and exploring new technologies. Whether it's frontend finesse or backend logic, I'll figure it out. 
+I'm a **Full Stack Consultant** at MIT Lincoln Labs and currently pursuing my **Master's at the University of Pennsylvania**. I love building full-stack applications, solving complex problems, and exploring new technologies. Whether it's frontend or backend logic, I'll figure it out. 
 
 ---
 
